@@ -14,6 +14,7 @@
         {
             "type": "chrome",
             "request": "launch",
+            "url": "http://localhost:8080",
             "name": "Open index.html",
             "file": "/home/coder/project/workspace/angularapp/src/index.html"
         }
